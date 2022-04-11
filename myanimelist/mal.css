@@ -1,0 +1,21 @@
+.list-table .list-table-data .data a {
+  color: #fddcff !important;
+}
+.list-table-header a {
+  color: #fddcff !important;
+}
+.status-menu a {
+  color: #fddcff !important;
+}
+.status-button:after {
+  background-color: #fddcff !important;
+}
+.list-unit .list-status-title {
+  background-color:  #fddcff;
+}
+.list-status-title .text {
+  color: white !important;
+}
+svg {
+  fill: #fddcff !important;
+}
